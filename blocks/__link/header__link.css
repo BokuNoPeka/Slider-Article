@@ -1,0 +1,19 @@
+.header__link {
+  max-width: 121px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 34px;
+
+  text-align: center;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  transition: opacity 0.3s ease;
+}
+
+.header__link:hover {
+  opacity: 0.6;
+}
